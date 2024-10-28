@@ -64,13 +64,6 @@ jobs:
         large-packages: true
         swap-storage: true
 
-    - name: Free up disk space complete
-      run: |
-        echo "Free up disk space complete"
-        echo "=============================================================================="
-        df -hT
-        echo "=============================================================================="
-
     - name: Initialization environment
       env:
         DEBIAN_FRONTEND: noninteractive
