@@ -26,4 +26,4 @@
 
 ## License
 
-[MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com)
+[MIT](https://github.com/Yppup/OpenWrt_x86_64_firmware/blob/dev/LICENSE) © [**P3TERX**](https://p3terx.com)
